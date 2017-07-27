@@ -1,5 +1,7 @@
 module bib
 
-# package code goes here
+export Parser
+
+include("parser.jl")
 
 end # module
